@@ -10,11 +10,11 @@ Please download and install the requirements using the code : **pip install -r r
 Then activate the Virtual Environment, makemigrations and migrate. Then run the code.
 Steps are given as codes :
 1) **..\Ebook\venv> Scripts/activate**
-2) **(venv) PS D:\PROJECT\Ebook\venv> cd..**
-3) **(venv) PS D:\PROJECT\Ebook> cd .\Ebook**
-4) **(venv) PS D:\PROJECT\Ebook\Ebook> py manage.py makemigrations**
-5) **(venv) PS D:\PROJECT\Ebook\Ebook> py manage.py migrate**
-6) **(venv) PS D:\PROJECT\Ebook\Ebook> py manage.py runserver**
+2) **(venv) ..\Ebook\venv> cd..**
+3) **(venv) ..\Ebook> cd .\Ebook**
+4) **(venv) ..\Ebook\Ebook> py manage.py makemigrations**
+5) **(venv) ..\Ebook\Ebook> py manage.py migrate**
+6) **(venv) ..\Ebook\Ebook> py manage.py runserver**
 
 After completing these steps, you'll be given a URL as : **http://127.0.0.1:8000/**
 Copy the link and run that in your browser to run the code.
